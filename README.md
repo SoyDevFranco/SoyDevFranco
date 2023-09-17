@@ -12,6 +12,9 @@
 
 📖Siempre estoy en constante aprendizaje, buscando mejorar mis aptitudes y conocimientos.
 
+📩Te podes comunicar conmigo,
+A través de mail: fran18632@gmail.com
+
 ### Technologies
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
