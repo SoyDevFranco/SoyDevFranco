@@ -23,9 +23,9 @@
   <br/>
 
 ### Contact Me
-<a href="https://www.linkedin.com/in/devfranco/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mauro%20Vera-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.youtube.com/channel/UCJ6WcZj9X9ni9PniyHjWp-w"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Mauro%20Dev-blue?style=flat-square&logo=youtube"></a>
-<a href="fran18632@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Maurovera069@gmail.com-blue?style=flat-square&logo=gmail"></a>  
+<a href="https://www.linkedin.com/in/devfranco/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-devfranco-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.youtube.com/channel/UCJ6WcZj9X9ni9PniyHjWp-w"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-devfranco-blue?style=flat-square&logo=youtube"></a>
+<a href="fran18632@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-fran18632@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=devfranco&show_icons=true)
 
