@@ -22,14 +22,4 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   <br/>
 
-### Contact Me
-<a href="https://www.instagram.com/tu_usuario_de_instagram/">
-  <img alt="Instagram" src="https://www.instagram.com/devfranco/Instagram-tu_usuario_de_instagram-E4405F?style=flat-square&logo=instagram">
-</a>
-<a href="https://www.linkedin.com/in/devfranco/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-devfranco-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.youtube.com/channel/UCJ6WcZj9X9ni9PniyHjWp-w"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-devfranco-blue?style=flat-square&logo=youtube"></a>
-<a href="fran18632@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-fran18632@gmail.com-blue?style=flat-square&logo=gmail"></a>  
-
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=devfranco&show_icons=true)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mauro069&label=Profile%20views&color=0e75b6&style=flat" alt="devfranco" /> </p>
