@@ -23,6 +23,9 @@
   <br/>
 
 ### Contact Me
+<a href="https://www.instagram.com/tu_usuario_de_instagram/">
+  <img alt="Instagram" src="https://www.instagram.com/devfranco/Instagram-tu_usuario_de_instagram-E4405F?style=flat-square&logo=instagram">
+</a>
 <a href="https://www.linkedin.com/in/devfranco/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-devfranco-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.youtube.com/channel/UCJ6WcZj9X9ni9PniyHjWp-w"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-devfranco-blue?style=flat-square&logo=youtube"></a>
 <a href="fran18632@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-fran18632@gmail.com-blue?style=flat-square&logo=gmail"></a>  
